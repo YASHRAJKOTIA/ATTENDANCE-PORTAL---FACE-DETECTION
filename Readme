@@ -1,5 +1,4 @@
- Face Recognition Based Attendance System
-
+ATTENDANCE PORTAL USING FACE DETECTION 
 This is a Python-based Attendance System integrated with Face Recognition, built to automate the process of marking attendance. It utilizes the OpenCV library for face recognition and Tkinter for the graphical user interface (GUI), making it both user-friendly and efficient. The system is designed for educational institutions or any organization requiring automated attendance tracking.
 
 Features
